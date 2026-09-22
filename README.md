@@ -56,6 +56,6 @@ Full-stack application built with React, FastAPI and Microsoft SQL Server, inclu
 
 ## Contact
 
-- LinkedIn: www.linkedin.com/in/abdelhedi-achraf-
+- LinkedIn: [linkedin.com/in/abdelhedi-achraf-](https://www.linkedin.com/in/abdelhedi-achraf-/)
 - Email: achrafabdelhedi2003@gmail.com
 - Location: Tunis, Tunisia
